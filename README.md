@@ -8,9 +8,6 @@ This project automates the process of identifying the fake gold bar among a set 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Algorithm Explanation](#algorithm-explanation)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
