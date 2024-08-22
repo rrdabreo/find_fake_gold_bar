@@ -25,7 +25,7 @@ Before running the script, ensure you have the following software installed:
 
 1. **Clone the Repository**:
     ```bash
-    git clone [https://github.com/rrdabreo/fake-gold-bar.git](https://github.com/rrdabreo/find_fake_gold_bar)
+    git clone https://github.com/rrdabreo/fake-gold-bar.git
     cd fake-gold-bar
     ```
 
